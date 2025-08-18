@@ -1,0 +1,1538 @@
+[
+  {
+    "dimension": "Velocity",
+    "kpiname": "First time pass (FTP)",
+    "definition": "Definition of First time pass (FTP)",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "70-79%",
+      "red": "< 70%"
+    },
+    "history": [
+      {
+        "id": 7602,
+        "period": "Sprint 1",
+        "value": 44,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 2645,
+        "period": "Sprint 2",
+        "value": 91,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 5257,
+        "period": "Sprint 3",
+        "value": 80,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 8349,
+        "period": "Sprint 4",
+        "value": 70,
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 6628,
+        "period": "Sprint 5",
+        "value": 60,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 4048,
+        "period": "Sprint 6",
+        "value": 79,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 2793,
+        "period": "Sprint 7",
+        "value": 60,
+        "status": "Red",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Velocity",
+    "kpiname": "Defect Density",
+    "definition": "Definition of Defect Density",
+    "guidelines": {
+      "ideal": "< 10%",
+      "green": "<= 10%",
+      "amber": "11-20%",
+      "red": "> 20%"
+    },
+    "history": [
+      {
+        "id": 9435,
+        "period": "Sprint 1",
+        "value": 13,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 1762,
+        "period": "Sprint 2",
+        "value": 22,
+        "status": "Red",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 3143,
+        "period": "Sprint 3",
+        "value": 12,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 4041,
+        "period": "Sprint 4",
+        "value": 8,
+        "status": "Green",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 8554,
+        "period": "Sprint 5",
+        "value": 7,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 1845,
+        "period": "Sprint 6",
+        "value": 16,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 2357,
+        "period": "Sprint 7",
+        "value": 3,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Velocity",
+    "kpiname": "In-Sprint Automation %",
+    "definition": "Definition of In-Sprint Automation %",
+    "guidelines": {
+      "ideal": "> 60%",
+      "green": ">= 60%",
+      "amber": "40-59%",
+      "red": "< 40%"
+    },
+    "history": [
+      {
+        "id": 1165,
+        "period": "Sprint 1",
+        "value": 80,
+        "status": "Green",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 4958,
+        "period": "Sprint 2",
+        "value": 42,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 3571,
+        "period": "Sprint 3",
+        "value": 46,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 5242,
+        "period": "Sprint 4",
+        "value": 89,
+        "status": "Green",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 8781,
+        "period": "Sprint 5",
+        "value": 51,
+        "status": "Amber",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 4827,
+        "period": "Sprint 6",
+        "value": 60,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 1297,
+        "period": "Sprint 7",
+        "value": 39,
+        "status": "Red",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Velocity",
+    "kpiname": "Automation Adoption",
+    "definition": "Definition of Automation Adoption",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 5985,
+        "period": "Sprint 1",
+        "value": 88,
+        "status": "Green",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 9949,
+        "period": "Sprint 2",
+        "value": 77,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 7496,
+        "period": "Sprint 3",
+        "value": 100,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 1782,
+        "period": "Sprint 4",
+        "value": 70,
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 9518,
+        "period": "Sprint 5",
+        "value": 47,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 6992,
+        "period": "Sprint 6",
+        "value": 66,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 4208,
+        "period": "Sprint 7",
+        "value": 57,
+        "status": "Red",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Velocity",
+    "kpiname": "Defect Re-open %",
+    "definition": "Definition of Defect Re-open %",
+    "guidelines": {
+      "ideal": "< 5%",
+      "green": "<= 5%",
+      "amber": "6-10%",
+      "red": "> 10%"
+    },
+    "history": [
+      {
+        "id": 3735,
+        "period": "Sprint 1",
+        "value": 7,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 8780,
+        "period": "Sprint 2",
+        "value": 3,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 3767,
+        "period": "Sprint 3",
+        "value": 19,
+        "status": "Red",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 9981,
+        "period": "Sprint 4",
+        "value": 1,
+        "status": "Green",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 6763,
+        "period": "Sprint 5",
+        "value": 8,
+        "status": "Amber",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 6784,
+        "period": "Sprint 6",
+        "value": 5,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 8747,
+        "period": "Sprint 7",
+        "value": 15,
+        "status": "Red",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Velocity",
+    "kpiname": "Average Defect TAT for P1, P2",
+    "definition": "Average of (Defect Fix Date - Defect Logged Date) for P1/P2 defects.",
+    "guidelines": {
+      "ideal": "P1: < 24 hours",
+      "green": "P1: < 1 day",
+      "amber": "P1: 1-2 days",
+      "red": "P1: > 2 days"
+    },
+    "history": [
+      {
+        "id": 7101,
+        "period": "Sprint 1",
+        "value": "36 hours",
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 8234,
+        "period": "Sprint 2",
+        "value": "20 hours",
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 9351,
+        "period": "Sprint 3",
+        "value": "18 hours",
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 1047,
+        "period": "Sprint 4",
+        "value": "30 hours",
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 1168,
+        "period": "Sprint 5",
+        "value": "10 hours",
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Quality",
+    "kpiname": "Invalid Defects",
+    "definition": "Definition of Invalid Defects",
+    "guidelines": {
+      "ideal": "> 60%",
+      "green": ">= 60%",
+      "amber": "40-59%",
+      "red": "< 40%"
+    },
+    "history": [
+      {
+        "id": 8177,
+        "period": "Release 1",
+        "value": 43,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 9451,
+        "period": "Release 2",
+        "value": 59,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 7002,
+        "period": "Release 3",
+        "value": 75,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 1929,
+        "period": "Release 4",
+        "value": 34,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 3716,
+        "period": "Release 5",
+        "value": 39,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 6263,
+        "period": "Release 6",
+        "value": 60,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 4791,
+        "period": "Release 7",
+        "value": 87,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Quality",
+    "kpiname": "Escaped Defects to Prod",
+    "definition": "Definition of Escaped Defects to Prod",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 7536,
+        "period": "Release 1",
+        "value": 95,
+        "status": "Green",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 4334,
+        "period": "Release 2",
+        "value": 88,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 4303,
+        "period": "Release 3",
+        "value": 46,
+        "status": "Red",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 7330,
+        "period": "Release 4",
+        "value": 46,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 6852,
+        "period": "Release 5",
+        "value": 79,
+        "status": "Amber",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 8746,
+        "period": "Release 6",
+        "value": 43,
+        "status": "Red",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 3107,
+        "period": "Release 7",
+        "value": 78,
+        "status": "Amber",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Quality",
+    "kpiname": "Escaped Defects to UAT",
+    "definition": "Definition of Escaped Defects to UAT",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 4970,
+        "period": "Release 1",
+        "value": 47,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 7877,
+        "period": "Release 2",
+        "value": 46,
+        "status": "Red",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 3891,
+        "period": "Release 3",
+        "value": 84,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 7158,
+        "period": "Release 4",
+        "value": 48,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 4713,
+        "period": "Release 5",
+        "value": 92,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 4198,
+        "period": "Release 6",
+        "value": 46,
+        "status": "Red",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 1363,
+        "period": "Release 7",
+        "value": 66,
+        "status": "Amber",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Quality",
+    "kpiname": "Test Coverage",
+    "definition": "Definition of Test Coverage",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 3036,
+        "period": "Release 1",
+        "value": 53,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 6352,
+        "period": "Release 2",
+        "value": 99,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 6151,
+        "period": "Release 3",
+        "value": 58,
+        "status": "Red",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 1547,
+        "period": "Release 4",
+        "value": 59,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 1517,
+        "period": "Release 5",
+        "value": 65,
+        "status": "Amber",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 3385,
+        "period": "Release 6",
+        "value": 98,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 7074,
+        "period": "Release 7",
+        "value": 80,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Quality",
+    "kpiname": "Regression Automation %",
+    "definition": "Definition of Regression Automation %",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 6331,
+        "period": "Release 1",
+        "value": 66,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 5562,
+        "period": "Release 2",
+        "value": 62,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 7235,
+        "period": "Release 3",
+        "value": 57,
+        "status": "Red",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 9624,
+        "period": "Release 4",
+        "value": 78,
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 3188,
+        "period": "Release 5",
+        "value": 59,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 9428,
+        "period": "Release 6",
+        "value": 80,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 1725,
+        "period": "Release 7",
+        "value": 65,
+        "status": "Amber",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Quality",
+    "kpiname": "Test Execution Cycle Time Reduction",
+    "definition": "Definition of Test Execution Cycle Time Reduction",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 1769,
+        "period": "Release 1",
+        "value": 98,
+        "status": "Green",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 3051,
+        "period": "Release 2",
+        "value": 90,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 8345,
+        "period": "Release 3",
+        "value": 75,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 9755,
+        "period": "Release 4",
+        "value": 44,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 6031,
+        "period": "Release 5",
+        "value": 41,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 7104,
+        "period": "Release 6",
+        "value": 63,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 2792,
+        "period": "Release 7",
+        "value": 90,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Engineering",
+    "kpiname": "Automation Script %",
+    "definition": "Definition of Automation Script %",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 6814,
+        "period": "Release 1",
+        "value": 69,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 1193,
+        "period": "Release 2",
+        "value": 63,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 4773,
+        "period": "Release 3",
+        "value": 71,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 8380,
+        "period": "Release 4",
+        "value": 89,
+        "status": "Green",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 4272,
+        "period": "Release 5",
+        "value": 44,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 2715,
+        "period": "Release 6",
+        "value": 70,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 5249,
+        "period": "Release 7",
+        "value": 61,
+        "status": "Amber",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Engineering",
+    "kpiname": "GenAI Use Cases",
+    "definition": "Definition of GenAI Use Cases",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 9652,
+        "period": "Release 1",
+        "value": 73,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 9551,
+        "period": "Release 2",
+        "value": 81,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 3815,
+        "period": "Release 3",
+        "value": 84,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 1924,
+        "period": "Release 4",
+        "value": 72,
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 5519,
+        "period": "Release 5",
+        "value": 95,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 9777,
+        "period": "Release 6",
+        "value": 74,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 6616,
+        "period": "Release 7",
+        "value": 90,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Engineering",
+    "kpiname": "AI Adoption",
+    "definition": "Definition of AI Adoption",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 4381,
+        "period": "Release 1",
+        "value": 62,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 2254,
+        "period": "Release 2",
+        "value": 91,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 9280,
+        "period": "Release 3",
+        "value": 85,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 9474,
+        "period": "Release 4",
+        "value": 55,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 8956,
+        "period": "Release 5",
+        "value": 68,
+        "status": "Amber",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 4437,
+        "period": "Release 6",
+        "value": 90,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 9341,
+        "period": "Release 7",
+        "value": 97,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Engineering",
+    "kpiname": "Code Defect Reduction",
+    "definition": "Definition of Code Defect Reduction",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 9292,
+        "period": "Release 1",
+        "value": 51,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 2162,
+        "period": "Release 2",
+        "value": 46,
+        "status": "Red",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 4026,
+        "period": "Release 3",
+        "value": 77,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 3714,
+        "period": "Release 4",
+        "value": 45,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 9620,
+        "period": "Release 5",
+        "value": 79,
+        "status": "Amber",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 6795,
+        "period": "Release 6",
+        "value": 79,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 1818,
+        "period": "Release 7",
+        "value": 81,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Engineering",
+    "kpiname": "Design Defect Reduction",
+    "definition": "Definition of Design Defect Reduction",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 2006,
+        "period": "Release 1",
+        "value": 52,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 7229,
+        "period": "Release 2",
+        "value": 73,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 1915,
+        "period": "Release 3",
+        "value": 45,
+        "status": "Red",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 2199,
+        "period": "Release 4",
+        "value": 100,
+        "status": "Green",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 1375,
+        "period": "Release 5",
+        "value": 54,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 1021,
+        "period": "Release 6",
+        "value": 48,
+        "status": "Red",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 6363,
+        "period": "Release 7",
+        "value": 48,
+        "status": "Red",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Engineering",
+    "kpiname": "Data Defect Reduction",
+    "definition": "Definition of Data Defect Reduction",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 3088,
+        "period": "Release 1",
+        "value": 49,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 1728,
+        "period": "Release 2",
+        "value": 60,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 6497,
+        "period": "Release 3",
+        "value": 99,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 9717,
+        "period": "Release 4",
+        "value": 64,
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 2623,
+        "period": "Release 5",
+        "value": 72,
+        "status": "Amber",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 2742,
+        "period": "Release 6",
+        "value": 88,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 7171,
+        "period": "Release 7",
+        "value": 57,
+        "status": "Red",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Engineering",
+    "kpiname": "Automation Debt",
+    "definition": "Definition of Automation Debt",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 4247,
+        "period": "Release 1",
+        "value": 71,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 2543,
+        "period": "Release 2",
+        "value": 68,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 7942,
+        "period": "Release 3",
+        "value": 84,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 7273,
+        "period": "Release 4",
+        "value": 50,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 3663,
+        "period": "Release 5",
+        "value": 99,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 1287,
+        "period": "Release 6",
+        "value": 92,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 1464,
+        "period": "Release 7",
+        "value": 87,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Collaboration",
+    "kpiname": "No. of Ideas & Reco by TCS",
+    "definition": "Definition of No. of Ideas & Reco by TCS",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 1198,
+        "period": "Release 1",
+        "value": 94,
+        "status": "Green",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 4214,
+        "period": "Release 2",
+        "value": 68,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 8473,
+        "period": "Release 3",
+        "value": 71,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 3870,
+        "period": "Release 4",
+        "value": 94,
+        "status": "Green",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 5200,
+        "period": "Release 5",
+        "value": 90,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 4297,
+        "period": "Release 6",
+        "value": 74,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 8559,
+        "period": "Release 7",
+        "value": 85,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Collaboration",
+    "kpiname": "Upskilling Index",
+    "definition": "Definition of Upskilling Index",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 2763,
+        "period": "Release 1",
+        "value": 60,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 6701,
+        "period": "Release 2",
+        "value": 46,
+        "status": "Red",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 5518,
+        "period": "Release 3",
+        "value": 98,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 6620,
+        "period": "Release 4",
+        "value": 62,
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 5151,
+        "period": "Release 5",
+        "value": 90,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 7439,
+        "period": "Release 6",
+        "value": 66,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 4490,
+        "period": "Release 7",
+        "value": 94,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Collaboration",
+    "kpiname": "Ecosystem Connects",
+    "definition": "Definition of Ecosystem Connects",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 4685,
+        "period": "Release 1",
+        "value": 94,
+        "status": "Green",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 8804,
+        "period": "Release 2",
+        "value": 63,
+        "status": "Amber",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 5102,
+        "period": "Release 3",
+        "value": 82,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 7727,
+        "period": "Release 4",
+        "value": 81,
+        "status": "Green",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 9309,
+        "period": "Release 5",
+        "value": 49,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 6617,
+        "period": "Release 6",
+        "value": 99,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 6659,
+        "period": "Release 7",
+        "value": 89,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Collaboration",
+    "kpiname": "Learning Hours",
+    "definition": "Definition of Learning Hours",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 8055,
+        "period": "Release 1",
+        "value": 46,
+        "status": "Red",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 4710,
+        "period": "Release 2",
+        "value": 85,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 4767,
+        "period": "Release 3",
+        "value": 97,
+        "status": "Green",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 4397,
+        "period": "Release 4",
+        "value": 58,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 1100,
+        "period": "Release 5",
+        "value": 49,
+        "status": "Red",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 2981,
+        "period": "Release 6",
+        "value": 97,
+        "status": "Green",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 8812,
+        "period": "Release 7",
+        "value": 92,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Collaboration",
+    "kpiname": "Meetings",
+    "definition": "Definition of Meetings",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 3341,
+        "period": "Release 1",
+        "value": 82,
+        "status": "Green",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 5734,
+        "period": "Release 2",
+        "value": 87,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 4502,
+        "period": "Release 3",
+        "value": 62,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 4317,
+        "period": "Release 4",
+        "value": 56,
+        "status": "Red",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 5552,
+        "period": "Release 5",
+        "value": 88,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 2286,
+        "period": "Release 6",
+        "value": 60,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 8134,
+        "period": "Release 7",
+        "value": 95,
+        "status": "Green",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "dimension": "Collaboration",
+    "kpiname": "Knowledge Assets",
+    "definition": "Definition of Knowledge Assets",
+    "guidelines": {
+      "ideal": "> 80%",
+      "green": ">= 80%",
+      "amber": "60-79%",
+      "red": "< 60%"
+    },
+    "history": [
+      {
+        "id": 5395,
+        "period": "Release 1",
+        "value": 76,
+        "status": "Amber",
+        "updated_at": "2025-01-01"
+      },
+      {
+        "id": 2164,
+        "period": "Release 2",
+        "value": 90,
+        "status": "Green",
+        "updated_at": "2025-01-15"
+      },
+      {
+        "id": 8163,
+        "period": "Release 3",
+        "value": 72,
+        "status": "Amber",
+        "updated_at": "2025-01-29"
+      },
+      {
+        "id": 5046,
+        "period": "Release 4",
+        "value": 67,
+        "status": "Amber",
+        "updated_at": "2025-02-12"
+      },
+      {
+        "id": 2845,
+        "period": "Release 5",
+        "value": 96,
+        "status": "Green",
+        "updated_at": "2025-02-26"
+      },
+      {
+        "id": 4095,
+        "period": "Release 6",
+        "value": 60,
+        "status": "Amber",
+        "updated_at": "2025-03-12"
+      },
+      {
+        "id": 5903,
+        "period": "Release 7",
+        "value": 77,
+        "status": "Amber",
+        "updated_at": "2025-03-26"
+      }
+    ]
+  }
+]
