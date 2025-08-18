@@ -63,7 +63,7 @@ export default function GaugeChart({
       yAxis: {
         min: axis.min,
         max: axis.max,
-        tickAmount: axis.tickAmount,          // let Highcharts place nice ticks
+        tickAmount: axis.tickAmount,          
         lineWidth: 0,
         tickWidth: 2,
         tickColor: "#000000",

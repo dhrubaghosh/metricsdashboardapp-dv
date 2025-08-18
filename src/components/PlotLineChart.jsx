@@ -28,7 +28,7 @@ export default function PlotLineChart({
       const [min, max] = guidelines.amber
         .split("-")
         .map((s) => parseInt(s, 10));
-      bands.push({ from: min, to: max+1, color: "rgba(255,165,0,0.1)" });
+      bands.push({ from: min, to: max + 1, color: "rgba(255,165,0,0.1)" });
     }
 
     if (guidelines.green) {
@@ -73,7 +73,6 @@ export default function PlotLineChart({
     });
   }, [title, categories, values, threshold, guidelines]);
 
-  // ✅ Compute Highlights
   useEffect(() => {
     if (!categories || !values || values.length === 0) return;
 
@@ -95,7 +94,6 @@ export default function PlotLineChart({
       )}%`;
     }
 
-    // 🔹 Calculate longest streaks
     let improvementStreak = 0,
       declineStreak = 0,
       maxImprovement = 0,
@@ -116,10 +114,8 @@ export default function PlotLineChart({
       maxDecline = Math.max(maxDecline, declineStreak);
     }
 
-    // Overall trend formula
     const overallTrend = (((lastVal - values[0]) / values[0]) * 100).toFixed(1);
 
-    // 🔹 Guideline compliance
     const compliance = { green: 0, amber: 0, red: 0 };
     values.forEach((val) => {
       if (guidelines.green && val >= parseThreshold(guidelines.green))
@@ -160,33 +156,27 @@ export default function PlotLineChart({
 
   return (
     <div className="flex flex-col gap-4">
-      {/* Chart */}
       <div ref={chartRef} style={{ height: "400px", width: "100%" }} />
 
-      {/* GPT-style Summary */}
       <div className="bg-white shadow-md rounded-lg p-4 relative">
         <h2 className="text-lg font-semibold mb-4">{title} - Highlights </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {/* Highest */}
           <div className="flex items-center gap-3 p-3 bg-green-50 rounded-md">
             <FaArrowUp className="text-green-600 " />
             <span className="text-gray-700 text-xs">{summary.highest}</span>
           </div>
 
-          {/* Lowest */}
           <div className="flex items-center gap-3 p-3 bg-red-50 rounded-md">
             <FaArrowDown className="text-red-600" />
             <span className="text-gray-700 text-xs">{summary.lowest}</span>
           </div>
 
-          {/* Latest */}
           <div className="flex items-center gap-3 p-3 bg-blue-50 rounded-md">
             <FaChartLine className="text-blue-600" />
             <span className="text-gray-700 text-xs">{summary.latest}</span>
           </div>
 
-          {/* Major Impact */}
           {summary.impact && (
             <div className="flex items-center gap-3 p-3 bg-yellow-50 rounded-md">
               <FaChartLine className="text-yellow-600 " />
@@ -199,26 +189,22 @@ export default function PlotLineChart({
             <span className="text-gray-700 text-xs">{summary.improvement}</span>
           </div>
 
-          {/* Decline Streak */}
           <div className="flex items-center gap-3 p-3 bg-red-100 rounded-md">
             <FaArrowDown className="text-red-700 " />
             <span className="text-gray-700 text-xs">{summary.decline}</span>
           </div>
 
-          {/* Overall Trend */}
           <div className="flex items-center gap-3 p-3 bg-blue-100 rounded-md">
             <FaChartLine className="text-blue-700 " />
             <span className="text-gray-700 text-xs">{summary.trend}</span>
           </div>
 
-          {/* Guideline Compliance */}
           <div className="flex items-center gap-3 p-3 bg-purple-100 rounded-md">
             <FaChartLine className="text-purple-700" />
             <span className="text-gray-700 text-xs">{summary.compliance}</span>
           </div>
         </div>
 
-        {/* Copy button */}
         <button
           onClick={handleCopy}
           className="absolute top-4 right-4 text-gray-500 hover:text-gray-800"
