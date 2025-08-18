@@ -2,7 +2,7 @@ import React from "react";
 import { useParams, useLocation } from "react-router-dom";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import PlotLineChart from "../components/PlotlineChart";
+import PlotLineChart from "../components/PlotLineChart";
 import kpiData from "../data/mockData.json";
 import slugify from "slugify";
 import { parseThreshold } from "../utils/ThresholdParser";
