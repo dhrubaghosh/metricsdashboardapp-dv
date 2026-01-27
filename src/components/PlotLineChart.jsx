@@ -39,7 +39,6 @@ export default function PlotLineChart({
     return bands;
   };
 
-  // ✅ Render Chart
   useEffect(() => {
     if (!chartRef.current) return;
 

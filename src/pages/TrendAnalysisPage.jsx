@@ -28,8 +28,8 @@ export default function TrendAnalysisPage() {
   const threshold = parseThreshold(kpi.guidelines.ideal);
 
   return (
-    <div className="min-h-screen flex flex-col p-2">
-      <Header />
+    <div className="min-h-screen flex flex-col p-2 mt-2">
+      {/* <Header /> */}
       <div className="flex items-center gap-2 mb-2">
         <button
           onClick={() => window.history.back()}

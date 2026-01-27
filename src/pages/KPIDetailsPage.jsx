@@ -26,8 +26,8 @@ export default function KPIDetails() {
     .filter((n) => Number.isFinite(n));
 
   return (
-    <div className="p-2 bg-gray-400 min-h-screen">
-      <Header />
+    <div className="p-2 pt-4 bg-gray-400 min-h-screen">
+      {/* <Header /> */}
 
       <div className="flex items-center gap-2 mb-2">
         <button
@@ -73,7 +73,7 @@ export default function KPIDetails() {
         </Link>
       </div>
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
