@@ -155,7 +155,7 @@ export default function PlotLineChart({
 
   return (
     <div className="flex flex-col gap-4">
-      <div ref={chartRef} style={{ height: "400px", width: "100%" }} />
+      <div ref={chartRef} style={{ height: "350px", width: "100%" }} />
 
       <div className="bg-white shadow-md rounded-lg p-4 relative">
         <h2 className="text-lg font-semibold mb-4">{title} - Highlights </h2>

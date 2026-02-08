@@ -12,87 +12,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 85,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
         "value": 82,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 91,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 44,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 75,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 88,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 70,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 60,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 79,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 92,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 65,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 80,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -109,87 +67,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 8,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 9,
+        "value": 10,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 22,
         "status": "Red",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 13,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 8,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 15,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 12,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 7,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 18,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 6,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 11,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 25,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 10,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -206,87 +122,45 @@
     "history": [
       {
         "id": 1,
-        "period": "Jan 2026",
-        "value": 68,
+        "period": "Feb 2026",
+        "value": 65,
         "status": "Green",
-        "updated_at": "2026-01-31"
+        "updated_at": "2026-02-28"
       },
       {
         "id": 2,
+        "period": "Jan 2026",
+        "value": 44,
+        "status": "Amber",
+        "updated_at": "2026-01-31"
+      },
+      {
+        "id": 3,
         "period": "Dec 2025",
         "value": 42,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 80,
         "status": "Green",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 55,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 72,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 48,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 65,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 39,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 78,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 51,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 88,
-        "status": "Green",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 44,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -303,87 +177,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 88,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 85,
+        "value": 80,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 77,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 88,
         "status": "Green",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 72,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 91,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 65,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 82,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 58,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 75,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 86,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 52,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 80,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -400,184 +232,100 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 2,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 3,
+        "value": 4,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 3,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 7,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 2,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 9,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 6,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 4,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 12,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 5,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 8,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 11,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 4,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
   {
     "dimension": "Velocity",
     "kpiname": "Average Defect TAT for P1, P2",
-    "definition": "Average of (Defect Fix Date - Defect Logged Date) for P1/P2 defects.",
+    "definition": "Average of (Defect Fix Date - Defect Logged Date) for P1/P2 defects (in hours).",
     "guidelines": {
-      "ideal": "P1: < 24 hours",
-      "green": "P1: < 1 day",
-      "amber": "P1: 1-2 days",
-      "red": "P1: > 2 days"
+      "ideal": "< 24",
+      "green": "< 24",
+      "amber": "24-48",
+      "red": "> 48"
     },
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 16,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": "14 hours",
+        "value": 16,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
-        "value": "20 hours",
+        "value": 20,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
-        "value": "36 hours",
+        "value": 36,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
-        "value": "22 hours",
+        "value": 22,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
-        "value": "28 hours",
+        "value": 28,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": "48 hours",
-        "status": "Red",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": "18 hours",
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": "32 hours",
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": "12 hours",
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": "24 hours",
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": "40 hours",
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": "16 hours",
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -594,87 +342,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 72,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 68,
+        "value": 70,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 59,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 43,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 72,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 55,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 61,
-        "status": "Green",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 48,
-        "status": "Amber",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 75,
-        "status": "Green",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 35,
-        "status": "Red",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 65,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 52,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 70,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -691,87 +397,45 @@
     "history": [
       {
         "id": 1,
-        "period": "Jan 2026",
-        "value": 82,
+        "period": "Feb 2026",
+        "value": 84,
         "status": "Green",
-        "updated_at": "2026-01-31"
+        "updated_at": "2026-02-28"
       },
       {
         "id": 2,
+        "period": "Jan 2026",
+        "value": 79,
+        "status": "Amber",
+        "updated_at": "2026-01-31"
+      },
+      {
+        "id": 3,
         "period": "Dec 2025",
         "value": 88,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 95,
         "status": "Green",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 75,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 48,
         "status": "Red",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 62,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 91,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 55,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 68,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 40,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 79,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -788,87 +452,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 72,
+        "status": "Amber",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 78,
+        "value": 65,
         "status": "Amber",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 46,
         "status": "Red",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 47,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 88,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 61,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 82,
-        "status": "Green",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 71,
-        "status": "Amber",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 95,
-        "status": "Green",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 53,
-        "status": "Red",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 74,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 86,
-        "status": "Green",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 65,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -885,87 +507,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 87,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 85,
+        "value": 81,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 99,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 53,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 72,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 91,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 65,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 88,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 58,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 76,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 92,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 62,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 81,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -982,87 +562,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 80,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 78,
+        "value": 75,
         "status": "Amber",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 62,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 66,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 85,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 71,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 58,
-        "status": "Red",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 88,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 63,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 82,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 67,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 55,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 75,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1079,87 +617,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 92,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 89,
+        "value": 87,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 90,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 98,
         "status": "Green",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 72,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 85,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 61,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 95,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 48,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 81,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 70,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 56,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 87,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1176,87 +672,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 70,
+        "status": "Amber",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 75,
+        "value": 68,
         "status": "Amber",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 63,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 69,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 82,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 58,
         "status": "Red",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 71,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 61,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 76,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 89,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 52,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 68,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1273,87 +727,45 @@
     "history": [
       {
         "id": 1,
-        "period": "Jan 2026",
-        "value": 88,
+        "period": "Feb 2026",
+        "value": 85,
         "status": "Green",
-        "updated_at": "2026-01-31"
+        "updated_at": "2026-02-28"
       },
       {
         "id": 2,
+        "period": "Jan 2026",
+        "value": 62,
+        "status": "Amber",
+        "updated_at": "2026-01-31"
+      },
+      {
+        "id": 3,
         "period": "Dec 2025",
         "value": 81,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 73,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 92,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 78,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 65,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 84,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 55,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 90,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 72,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 76,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 62,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1370,87 +782,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 89,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 87,
+        "value": 81,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 91,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 62,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 79,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 88,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 73,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 82,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 51,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 75,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 68,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 81,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1467,87 +837,45 @@
     "history": [
       {
         "id": 1,
-        "period": "Jan 2026",
-        "value": 82,
-        "status": "Green",
-        "updated_at": "2026-01-31"
+        "period": "Feb 2026",
+        "value": 79,
+        "status": "Amber",
+        "updated_at": "2026-02-28"
       },
       {
         "id": 2,
+        "period": "Jan 2026",
+        "value": 77,
+        "status": "Amber",
+        "updated_at": "2026-01-31"
+      },
+      {
+        "id": 3,
         "period": "Dec 2025",
         "value": 46,
         "status": "Red",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 51,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 78,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 71,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 63,
-        "status": "Amber",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 75,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 58,
-        "status": "Red",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 80,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 49,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 77,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1564,87 +892,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 68,
+        "status": "Amber",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 74,
+        "value": 61,
         "status": "Amber",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 73,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 52,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 81,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 66,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 58,
-        "status": "Red",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 72,
-        "status": "Amber",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 64,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 88,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 54,
-        "status": "Red",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 79,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 61,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1661,87 +947,45 @@
     "history": [
       {
         "id": 1,
-        "period": "Jan 2026",
-        "value": 81,
-        "status": "Green",
-        "updated_at": "2026-01-31"
+        "period": "Feb 2026",
+        "value": 78,
+        "status": "Amber",
+        "updated_at": "2026-02-28"
       },
       {
         "id": 2,
+        "period": "Jan 2026",
+        "value": 71,
+        "status": "Amber",
+        "updated_at": "2026-01-31"
+      },
+      {
+        "id": 3,
         "period": "Dec 2025",
         "value": 60,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 49,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 72,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 86,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 65,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 90,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 55,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 78,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 69,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 71,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1758,87 +1002,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 94,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 91,
+        "value": 92,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 68,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 94,
         "status": "Green",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 73,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 82,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 58,
-        "status": "Red",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 88,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 71,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 64,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 76,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 92,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1855,87 +1057,45 @@
     "history": [
       {
         "id": 1,
-        "period": "Jan 2026",
-        "value": 74,
-        "status": "Amber",
-        "updated_at": "2026-01-31"
+        "period": "Feb 2026",
+        "value": 55,
+        "status": "Red",
+        "updated_at": "2026-02-28"
       },
       {
         "id": 2,
+        "period": "Jan 2026",
+        "value": 52,
+        "status": "Red",
+        "updated_at": "2026-01-31"
+      },
+      {
+        "id": 3,
         "period": "Dec 2025",
         "value": 46,
         "status": "Red",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 60,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 88,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 75,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 82,
-        "status": "Green",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 69,
-        "status": "Amber",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 92,
-        "status": "Green",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 61,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 78,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 85,
-        "status": "Green",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 52,
-        "status": "Red",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -1952,87 +1112,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 93,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 89,
+        "value": 91,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 63,
         "status": "Amber",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 94,
         "status": "Green",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 81,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 72,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 88,
-        "status": "Green",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 65,
-        "status": "Amber",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 92,
-        "status": "Green",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 76,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 84,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 51,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 91,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -2049,87 +1167,45 @@
     "history": [
       {
         "id": 1,
-        "period": "Jan 2026",
-        "value": 86,
-        "status": "Green",
-        "updated_at": "2026-01-31"
+        "period": "Feb 2026",
+        "value": 78,
+        "status": "Amber",
+        "updated_at": "2026-02-28"
       },
       {
         "id": 2,
+        "period": "Jan 2026",
+        "value": 74,
+        "status": "Amber",
+        "updated_at": "2026-01-31"
+      },
+      {
+        "id": 3,
         "period": "Dec 2025",
         "value": 85,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 46,
         "status": "Red",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 82,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 71,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 92,
-        "status": "Green",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 67,
-        "status": "Amber",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 78,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 88,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 95,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 62,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 74,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -2146,87 +1222,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 83,
+        "status": "Green",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 85,
+        "value": 81,
         "status": "Green",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 87,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 82,
         "status": "Green",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 76,
         "status": "Amber",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 88,
         "status": "Green",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 64,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 92,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 58,
-        "status": "Red",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 80,
-        "status": "Green",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 69,
-        "status": "Amber",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 77,
-        "status": "Amber",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 81,
-        "status": "Green",
-        "updated_at": "2025-02-28"
       }
     ]
   },
@@ -2243,87 +1277,45 @@
     "history": [
       {
         "id": 1,
+        "period": "Feb 2026",
+        "value": 75,
+        "status": "Amber",
+        "updated_at": "2026-02-28"
+      },
+      {
+        "id": 2,
         "period": "Jan 2026",
-        "value": 78,
+        "value": 73,
         "status": "Amber",
         "updated_at": "2026-01-31"
       },
       {
-        "id": 2,
+        "id": 3,
         "period": "Dec 2025",
         "value": 90,
         "status": "Green",
         "updated_at": "2025-12-31"
       },
       {
-        "id": 3,
+        "id": 4,
         "period": "Nov 2025",
         "value": 76,
         "status": "Amber",
         "updated_at": "2025-11-30"
       },
       {
-        "id": 4,
+        "id": 5,
         "period": "Oct 2025",
         "value": 82,
         "status": "Green",
         "updated_at": "2025-10-31"
       },
       {
-        "id": 5,
+        "id": 6,
         "period": "Sep 2025",
         "value": 68,
         "status": "Amber",
         "updated_at": "2025-09-30"
-      },
-      {
-        "id": 6,
-        "period": "Aug 2025",
-        "value": 75,
-        "status": "Amber",
-        "updated_at": "2025-08-31"
-      },
-      {
-        "id": 7,
-        "period": "Jul 2025",
-        "value": 89,
-        "status": "Green",
-        "updated_at": "2025-07-31"
-      },
-      {
-        "id": 8,
-        "period": "Jun 2025",
-        "value": 61,
-        "status": "Amber",
-        "updated_at": "2025-06-30"
-      },
-      {
-        "id": 9,
-        "period": "May 2025",
-        "value": 79,
-        "status": "Amber",
-        "updated_at": "2025-05-31"
-      },
-      {
-        "id": 10,
-        "period": "Apr 2025",
-        "value": 86,
-        "status": "Green",
-        "updated_at": "2025-04-30"
-      },
-      {
-        "id": 11,
-        "period": "Mar 2025",
-        "value": 57,
-        "status": "Red",
-        "updated_at": "2025-03-31"
-      },
-      {
-        "id": 12,
-        "period": "Feb 2025",
-        "value": 73,
-        "status": "Amber",
-        "updated_at": "2025-02-28"
       }
     ]
   }

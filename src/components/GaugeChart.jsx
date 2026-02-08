@@ -1,4 +1,5 @@
 import React, { useEffect, useRef } from "react";
+import { Link } from "react-router-dom";
 import Highcharts from "highcharts";
 import HighchartsMore from "highcharts/highcharts-more";
 import SolidGauge from "highcharts/modules/solid-gauge";
@@ -9,11 +10,12 @@ if (typeof SolidGauge === "function") SolidGauge(Highcharts);
 
 export default function GaugeChart({
   title,
-  updated,
   value,
   status,
   threshold,
-  historyValues = [], // pass recent values to scale smarter (optional)
+  historyValues = [],
+  trendLink,
+  kpiData,
 }) {
   const chartRef = useRef(null);
 
@@ -110,16 +112,20 @@ export default function GaugeChart({
         },
       ],
     });
-  }, [value, title, updated, status, threshold, historyValues]);
+  }, [value, title, status, threshold, historyValues]);
 
   return (
     <div className="flex flex-col items-center justify-between h-full shadow rounded-lg bg-white">
       <div ref={chartRef} className="w-72 h-full" />
       <div className="w-full mb-6 relative">
         <h3 className="text-sm text-center">{title}</h3>
-        <span className="absolute right-2 top-1/2 -translate-y-1/2 text-xs font-normal text-gray-500">
-          Updated: {updated}
-        </span>
+        <Link
+          to={trendLink}
+          state={{ kpi: kpiData }}
+          className="absolute right-2 top-1/2 -translate-y-1/2 text-xs font-normal text-blue-600 hover:text-blue-800 hover:underline"
+        >
+          Trend Analysis →
+        </Link>
       </div>
     </div>
   );

@@ -39,7 +39,7 @@ export default function TrendAnalysisPage() {
         </button>
 
         <h1
-          className="text-xl font-bold bg-stone-800 rounded-lg py-2 px-2 text-white 
+          className="text-xl font-bold bg-sky-800 rounded-lg py-2 px-2 text-white
                    inline-block md:mx-2"
         >
           {kpi.kpiname} - Trend Analysis
@@ -56,7 +56,7 @@ export default function TrendAnalysisPage() {
 
         
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
