@@ -74,7 +74,7 @@ export default function KPIDashboard() {
     <div className="w-full h-[calc(98vh-64px)] overflow-hidden bg-gray-50 flex flex-col relative">
       <div className="flex-1 px-3 py-2 grid grid-rows-2 gap-3 max-w-[1600px] mx-auto w-full">
         <div className="grid grid-cols-[1fr_320px_1fr] gap-4">
-          <div className="bg-gradient-to-br from-red-100/80 to-pink-100/60 rounded-2xl p-3 shadow-lg">
+          <div className="bg-gradient-to-br from-red-100 to-pink-100 rounded-2xl p-3 shadow-lg">
             <h3 className="text-xs font-bold text-gray-800 mb-2 flex items-center gap-2">
               <span className="w-1 h-4 bg-red-500 rounded-full" />
               Engineering
@@ -82,7 +82,7 @@ export default function KPIDashboard() {
             {renderDimensionCards("Engineering")}
           </div>
           <div className="relative" />
-          <div className="bg-gradient-to-br from-lime-100/80 to-green-100/60 rounded-2xl p-3 shadow-lg">
+          <div className="bg-gradient-to-br from-lime-100 to-green-100 rounded-2xl p-3 shadow-lg">
             <h3 className="text-xs font-bold text-gray-800 mb-2 flex items-center gap-2">
               <span className="w-1 h-4 bg-lime-500 rounded-full" />
               Velocity
@@ -91,7 +91,7 @@ export default function KPIDashboard() {
           </div>
         </div>
         <div className="grid grid-cols-[1fr_320px_1fr] gap-4">
-          <div className="bg-gradient-to-br from-purple-100/80 to-violet-100/60 rounded-2xl p-3 shadow-lg mb-5">
+          <div className="bg-gradient-to-br from-purple-100 to-violet-100 rounded-2xl p-3 shadow-lg mb-5">
             <h3 className="text-xs font-bold text-gray-800 mb-2 flex items-center gap-2">
               <span className="w-1 h-4 bg-purple-500 rounded-full" />
               Collaboration
@@ -99,7 +99,7 @@ export default function KPIDashboard() {
             {renderDimensionCards("Collaboration")}
           </div>
           <div className="relative" />
-          <div className="bg-gradient-to-br from-orange-100/80 to-amber-100/60 rounded-2xl p-3 shadow-lg mb-5">
+          <div className="bg-gradient-to-br from-orange-100 to-amber-100 rounded-2xl p-3 shadow-lg mb-5">
             <h3 className="text-xs font-bold text-gray-800 mb-2 flex items-center gap-2">
               <span className="w-1 h-4 bg-orange-500 rounded-full" />
               Quality
